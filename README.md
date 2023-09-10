@@ -1,1 +1,1 @@
-# Baby_steps_in_math_modeling_wtih_python
+# Baby steps in math modeling wtih python
